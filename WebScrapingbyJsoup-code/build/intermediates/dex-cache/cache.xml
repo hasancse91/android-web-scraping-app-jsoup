@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_049773d81790a4f3d4c4eb5e5a00831c3180dceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_e861d7f7d5309f421348ab46aab980e063f58864.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_3df7d9542a9e4342e49c2a841817cb978870c495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_0d7f86021febc0c035bf71cb1902cc12b528e37f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hasan/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.2/33ee82e324f4b1e40167f3dc5e01234a1c5cab61/jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/pre-dexed/debug/jsoup-1.10.2_f2aaf7f95ed6e5192d93cf56b9d7d4899e3fc42d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hasan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/pre-dexed/debug/gson-2.8.0_f255c6177d6d7a567085d486128744425eaf55c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_fed1b7ce4e5c845cfad638f9f3bee79c40c813b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_7555b67a65d5c53eee14b001b9855809f432f87b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hasan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_7cb485cd8e89df0b24b5ea134b6164a9212f595e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_97e30c41f16e22b35a9d58882e70adc85cd1b151.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_a2939e89f89ded4adfb890795e158603e167b278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/media/hasan/My Drive/UBUNTU SYSTEM FILES/Android Studio Files/AndroidStudioProjects/WebScrapingbyJsoup/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_49b54bd1fba252838187f280ddf1f1500d5f3523.jar" />
+    </item>
+
+</items>
