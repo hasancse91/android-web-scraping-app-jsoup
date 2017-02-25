@@ -27,9 +27,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.2.0'
     testCompile 'junit:junit:4.12'
 
-    // JSON parsing Library
-    compile 'com.google.code.gson:gson:2.8.0'
-
     // jsoup HTML parser library @ http://jsoup.org/
     compile 'org.jsoup:jsoup:1.10.2'
 }
