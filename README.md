@@ -1,6 +1,6 @@
-﻿# Android Web Scraping App using Jsoup Library
+# Android Web Scraping App using Jsoup Library
 
-I'll scrap here, the first portion of [this page] (https://developer.android.com/training/index.html)
+I'll scrap here, the first portion of [this page](https://developer.android.com/training/index.html)
 
 My expected output is like this screenshot.
 
